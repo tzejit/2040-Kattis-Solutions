@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class a2048 {
+public class A2048 {
 
   public static void transpose(ArrayList<ArrayList<Integer>> board) {
     ArrayList<ArrayList<Integer>> temp = new ArrayList<ArrayList<Integer>>(4);
