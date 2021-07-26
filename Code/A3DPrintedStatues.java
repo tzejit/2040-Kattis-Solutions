@@ -1,4 +1,4 @@
-public class a3DPrintedStatues {
+public class A3DPrintedStatues {
   public static void main(String[] args) {
     Kattio io = new Kattio(System.in, System.out);
     int n = io.getInt();
