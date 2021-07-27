@@ -2,8 +2,8 @@
 Kattis problems encountered while taking CS2040
  Problem  | Kattis Link
  --- | :---: 
-[2048](../master/Code/2048.java)|[Link](https://open.kattis.com/problems/2048)
-[3D Printed Statues](../master/Code/3DPrintedStatues.java)|[Link](https://open.kattis.com/problems/3dprinter)
+[2048](../master/Code/A2048.java)|[Link](https://open.kattis.com/problems/2048)
+[3D Printed Statues](../master/Code/A3DPrintedStatues.java)|[Link](https://open.kattis.com/problems/3dprinter)
 [A Classy Problem](../master/Code/AClassyProblem.java)|[Link](https://open.kattis.com/problems/classy)
 [Akcija](../master/Code/Akcija.java)|[Link](https://open.kattis.com/problems/akcija)
 [Autori](../master/Code/Autori.java)|[Link](https://open.kattis.com/problems/autori)
