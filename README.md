@@ -1,5 +1,6 @@
 # Kattis Solutions
 Kattis problems encountered while taking CS2040
+Most solutions require the use of [Kattio](https://open.kattis.com/help/java#:~:text=for%20you%2C%20called-,Kattio.java.,-This%20class%20provides)
  Problem  | Kattis Link
  --- | :---: 
 [10 Types of People](../master/Code/10TypesofPeople.java)|[Link](https://open.kattis.com/problems/10kindsofpeople)
